@@ -2,12 +2,12 @@
 
 # SALESSAVVY — A Full-Stack E-Commerce Solution
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Backend:** Java, Spring Boot, JPA, MySQL  
 **Frontend:** HTML, CSS, JavaScript  
 **Tools:** Maven, Postman, GitHub
 
-## 🚀 Features
+## Features
 - RESTful APIs for product and order management  
 - Interactive, responsive UI for customers  
 - Real-time cart and checkout flow  
